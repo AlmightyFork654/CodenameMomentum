@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 267c7e76ff598fe48bca72f0b1cfed2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mixer: {instanceID: 0}
+  - ThemeSlider: {instanceID: 0}
+  - WalkSlider: {instanceID: 0}
+  - JumpSlider: {instanceID: 0}
+  - FallSlider: {instanceID: 0}
+  - AbilitySlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
